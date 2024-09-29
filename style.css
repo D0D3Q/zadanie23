@@ -1,0 +1,9 @@
+.logo{
+    background-color: black;
+    color: white;
+    font: 64px arial;
+    text-align: center;
+    text-shadow: lightgrey 5px 5px 9px;
+    border: dotted grey;
+    letter-spacing: 15px;
+}
